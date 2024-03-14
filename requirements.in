@@ -1,0 +1,13 @@
+ipdb
+ipython
+jupyter
+matplotlib
+numpy
+pandas
+Pillow
+pip-tools
+scikit-learn
+scipy
+seaborn
+torch
+tqdm
