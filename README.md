@@ -24,3 +24,8 @@ Activate the virtualenv which you created in the previous step:
 source venv/bin/activate
 pip install -r requirements.txt
 ```
+
+#### 4. Run Jupyter Notebook
+```bash
+jupyter notebook
+```

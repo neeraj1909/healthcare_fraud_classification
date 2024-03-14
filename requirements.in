@@ -6,6 +6,8 @@ numpy
 pandas
 Pillow
 pip-tools
+pre-commit
+ruff
 scikit-learn
 scipy
 seaborn
