@@ -1,6 +1,7 @@
 ipdb
 ipython
 jupyter
+lightgbm
 matplotlib
 numpy
 pandas
