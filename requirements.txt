@@ -166,11 +166,11 @@ jupyter-server==2.13.0
     #   notebook-shim
 jupyter-server-terminals==0.5.3
     # via jupyter-server
-jupyterlab==4.1.4
+jupyterlab==4.2.5
     # via notebook
 jupyterlab-pygments==0.3.0
     # via nbconvert
-jupyterlab-server==2.25.4
+jupyterlab-server==2.27.3
     # via
     #   jupyterlab
     #   notebook
@@ -213,7 +213,7 @@ networkx==3.2.1
     # via torch
 nodeenv==1.8.0
     # via pre-commit
-notebook==7.1.1
+notebook==7.2.2
     # via jupyter
 notebook-shim==0.2.4
     # via
